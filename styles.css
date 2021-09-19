@@ -1,0 +1,23 @@
+html { background: url(165-1654337_logo-wallpaper-iphone-liverpool.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+  text-decoration: none;
+  
+}
+
+body {
+  xxxbackground:url(liverpool-backround-2.jpg);
+  xxxbackground-color: #cccccc;
+  
+  color: white;
+p {
+  color:blue;
+  font-family:monospace;
+}
+h1 {
+  font-weight: bold;
+  }
+  
+  <
